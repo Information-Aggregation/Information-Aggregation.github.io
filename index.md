@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Information Aggregation （信息聚合）
 
-You can use the [editor on GitHub](https://github.com/xiaodl813/Information-Aggregation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+由于最近通知太多了，看消息头疼，就搞这么一个网页。大家看这个网页就行，所有信息都聚合在这里，也好找。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 最近通知
 
-### Markdown
+* 综合加分申请材料提交截止：本周四（9月16日）12点前，电磁发给范文博同学，光电发给郭俊宏同学，应物由杨颖钊姐姐安排。注意，同时需要在扬华网上提交加分材料哦！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 家庭经济困难学生认定：本周四（9月16日）截止，在扬华网上提交！[通知链接](http://xg.swjtu.edu.cn/web/Home/Detail?xvw34vmu=010j_M3=ea455h0h-d4b3-e5gf-a1b1-5fc2b2ejdei0.shtml)
 
-```markdown
-Syntax highlighted code block
+* 学生证交给本班班班长盖章：本周四（9月16日）中午12点前将学生证交给本班班长。
 
-# Header 1
-## Header 2
-### Header 3
+* 求职创业补贴材料提交：9月14日下午4点前将相关材料交至X30349
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaodl813/Information-Aggregation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [医保缴费](https://hospital.swjtu.edu.cn/info/1009/1847.htm)

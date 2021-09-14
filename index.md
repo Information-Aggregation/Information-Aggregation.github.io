@@ -12,4 +12,16 @@
 
 * 求职创业补贴材料提交：9月14日下午4点前将相关材料交至X30349
 
-* [医保缴费](https://hospital.swjtu.edu.cn/info/1009/1847.htm)
+* [医保缴费](https://hospital.swjtu.edu.cn/info/1009/1847.htm)，9月15日-9月30日
+
+## 保研相关
+
+* [教务网推免工作专题](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=3935E695EC7FB6E0)
+
+## 就业相关
+
+~~此处正在施工中……~~
+
+## 如何提交信息
+
+参考[Contribution Guidance](./contribution.md)

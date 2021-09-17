@@ -30,13 +30,9 @@
 
 * [成绩公示](https://phys.swjtu.edu.cn/info/1176/7874.htm)
 
-* ~~提交免研申请的通知：~~
-
-    * ~~[教务网](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=4DDB3D6F47B20647)：明天（9月15日）中午11点前将完成网上申请，并将纸质材料，电子专业男生交给倪浚哲，女生交给郭俊宏，应物交给杨颖钊30348办公室~~
-
-    * ~~[物理学院官网](https://phys.swjtu.edu.cn/info/1176/7879.htm)：还没有把免研申请交给指定人的同学，最晚今天下午4点前提交~~
-
 * **[保研名额公示](https://phys.swjtu.edu.cn/info/1176/7882.htm)**
+
+* [关于调整我校2022年“国防科工招生单位补偿计划”指标分配的通知](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=2E92C35818F52F86)
 
 ## 评奖评优
 

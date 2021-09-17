@@ -60,6 +60,8 @@
 
 * 就业推荐表已经下发给各班班委，请自行领取（**注意**：本表格只有一份原件，建议多复印几份防止丢失）
 
+* [四六级报名](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=32D9973D3A2DA7FB)
+
 * 校医院有关核酸检测的通知
 
     ![校医院有关核酸检测的通知](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed//20210915230327.png)

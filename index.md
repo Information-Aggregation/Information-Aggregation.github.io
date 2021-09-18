@@ -33,7 +33,7 @@
 * **[保研名额公示](https://phys.swjtu.edu.cn/info/1176/7882.htm)**
 
 * [关于调整我校2022年“国防科工招生单位补偿计划”指标分配的通知](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=2E92C35818F52F86)
-* 
+
 * **[推免公示]关于物理科学与技术学院2022届免研指标分配调整公示的通知(https://phys.swjtu.edu.cn/info/1176/7888.htm)**
 
 ## 评奖评优

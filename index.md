@@ -52,7 +52,7 @@
 
 ### [招聘信息](./recruit.md)
 
-* ~~[2021年第一期大学生创业实训课程报名通知]~~(http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=942ECAAAD0A571F8)
+* ~~[2021年第一期大学生创业实训课程报名通知](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=942ECAAAD0A571F8)~~
 
 ## 其他
 

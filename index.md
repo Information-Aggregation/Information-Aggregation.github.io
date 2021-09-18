@@ -26,6 +26,8 @@
 
 ## 研招信息
 
+[硕士专业目录](https://yz.chsi.com.cn/zsml/zyfx_search.jsp)
+
 ### 推免
 
 * [教务网推免工作专题](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=3935E695EC7FB6E0)

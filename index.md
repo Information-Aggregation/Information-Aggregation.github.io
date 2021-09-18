@@ -28,7 +28,7 @@
 
 * [教务网推免工作专题](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=3935E695EC7FB6E0)
 
-* [成绩公示](https://phys.swjtu.edu.cn/info/1176/7874.htm)
+* ~~[成绩公示](https://phys.swjtu.edu.cn/info/1176/7874.htm)~~
 
 * **[保研名额公示](https://phys.swjtu.edu.cn/info/1176/7882.htm)**
 
@@ -42,7 +42,11 @@
 
 ## 考研信息
 
-~~此处正在施工中……~~
+[全国硕士研究生招生考试网上报名平台](https://yz.chsi.com.cn/yzwb/)
+
+* 预报名（9.24-9.27)
+
+* 正式报名(10.5-10.25)
 
 ## 就业、毕业相关
 

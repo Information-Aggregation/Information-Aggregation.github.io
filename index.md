@@ -14,9 +14,7 @@
 
 ## 最近截止
 
-* 10月9日：四六级报名截止、科奖申请材料提交
-
-* 10月11日：省级优秀毕业生答辩
+* 10月15日：体测预约
 
 * 10月20日：研招网推免服务系统关闭
 
@@ -48,41 +46,9 @@
 
 [物理学院学生获专业比赛奖励情况统计表](https://docs.qq.com/sheet/DSXJPckZBS0Fxc1pz?groupUin=5nLn7o%252BhhqzDnj9eUpkTNQ%253D%253D&tab=BB08J2)
 
-### 感恩中国近现代科学家奖助学金
+* [【评奖公示】物理学院感恩中国近现代科学家奖助学金拟推荐人选公示](https://phys.swjtu.edu.cn/info/1176/8053.htm)
 
-[【扬华】感恩中国近现代科学家奖助学金](http://xg.swjtu.edu.cn/web/Home/Detail?xvw34vmu=010j_M3=cfc2b2hg-jaa0-e1a1-ajea-ff0b4c51j5g4.shtml)
-
-[【物院】感恩中国近现代科学家奖助学金](https://phys.swjtu.edu.cn/info/1176/7951.htm)
-
-#### 评选要求
-
-* 奖学金要求综合成绩排名位于本专业**前20%**
-
-* 助学金要求通过学校2020-2021学年家庭经济**困难学生认定**，综合成绩排名位于本专业**前30%**。
-
-#### TODO
-
-* [ ] 奖助学金审批表（一式两份，正反面打印，不能改变表格样式）
-
-* [ ] 心得文章
-
-    * 关于学习中国近现代科学家崇尚科学、追求真理、艰苦奋斗、家国天下等事迹、精神的原创文章
-
-    * 文章应着重突出学习心得、感悟，而非单纯讲述科学家事迹
-
-    * 字数不少于2500字，心得文章去除引用文献复制比不得超过25%
-
-    * 参考资料及范文请关注“立德树人中心”微信公众号
-
-* [ ] 提交审批表、相关证明材料、心得文章至X30349（**DDL：10月9日**）
-
-* [ ] 笔试、面试
-
-### 省级优秀毕业生
-
-* 省级优秀毕业生的答辩名单将根据省优的申请名单产生
-
-* 省级优秀毕业生将在10月11日下午答辩
+* [【评优公示】物理学院2022届本科生优秀毕业生拟推荐人选名单公示](https://phys.swjtu.edu.cn/info/1176/8051.htm)
 
 ## 就业、毕业相关
 
@@ -112,15 +78,15 @@
 
     * [ ] 学校老师将于**10月28日**上传名单，学生可登录系统报名。
 
+* ~~[四川省面向西南交通大学 选调2022届优秀大学毕业生公告](https://jiuye.swjtu.edu.cn/eweb/jygl/zpfw.so?modcode=jygl_zpfwzpgg&subsyscode=zpfw&type=view&id=PD3r2zKfVw7TGTjwghbKf2)~~(无物理、电讯专业)
+
+* [关于举办四川省紧缺选调线下培训班的通知](https://jiuye.swjtu.edu.cn/eweb/jygl/index.so?modcode=jyw_tzgg&subsyscode=jyw&type=view&newsType=tzgg&id=XEQJ3P6SH4orgA1LPoXb9q)
+
 ### 毕业资格相关
 
-* 今年学时资格认证工作将在11-12月开展
+* **[关于开展2021年国家体质健康测试的通知](http://sports.swjtu.edu.cn/shownews-933.html)**
 
-* **第二、三课堂学时预警已经上传至年级群，请各位及时选课（此为毕业资格审查项）**
-
-    * **11月份前补还来得及**，我们学院之后开设的第二课堂选课通知也会发到年级群，大家关注群消息！
-
-    * [第二课堂选课网址](http://jwc.swjtu.edu.cn/vatuu/YouthIndexAction?setAction=index)
+* [第二、第三课堂相关](./activities.md)
 
 * [西南交通大学关于学士学位外语水平要求的规定](http://jwc.swjtu.edu.cn/download/rule/20201119112410141.pdf)👈点击查看PDF文档
 
@@ -128,14 +94,14 @@
 
 ## 其他
 
-* [四六级报名](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=32D9973D3A2DA7FB)
-
 * *本年度学费已经在计财处网站上更新，大家可以缴费了（本条通知不是计财处的正式通知）*
 
 * [文明宿舍初评结果](https://phys.swjtu.edu.cn/info/1176/7883.htm)
 
 * [2021SRTP第一次阶段检查]
 (http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=F11942080B6B1E72)
+
+* [本学期个性化及重点实验室项目中期检查](https://oalm.swjtu.edu.cn/WebSite/pages/details.html?id=7711)
 
 ### 校医院相关通知
 

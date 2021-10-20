@@ -140,9 +140,9 @@
 
 ### 校医院相关通知
 
-* 校医院有关核酸检测的通知
+* 2022年医保补缴通知
 
-    ![校医院有关核酸检测的通知](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed//20210915230327.png)
+    ![2022年医保补缴通知](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed/20211020114220.jpg)
 
 ## About（关于）
 

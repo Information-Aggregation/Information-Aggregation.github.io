@@ -14,31 +14,13 @@
 
 ## 最近截止
 
-* 10月15日：体测预约
+* 10月21日：专项奖学金申请截止
 
-* 10月20日：研招网推免服务系统关闭
+* 10月22日：第二项运动技能认定（第一批）
 
-## 研招信息
+* 10月25日：考研报名
 
-[硕士专业目录(研招网)](https://yz.chsi.com.cn/zsml/zyfx_search.jsp)
-
-### 推免
-
-* [教务网推免工作专题](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=3935E695EC7FB6E0)
-
-* **[2022年推免生需提前准备的信息（研招网）](https://yz.chsi.com.cn/kyzx/other/202109/20210910/2107346362.html)**
-
-* 推免服务系统开放时间：9.28-10.20
-
-### 统考
-
-* [全国硕士研究生招生考试网上报名平台](https://yz.chsi.com.cn/yzwb/)
-
-* [2022考研日程表](https://yz.chsi.com.cn/kyzx/jybzc/202109/20210903/2106041625.html)
-
-* 研招网考生信息里考生档案所在单位和地址的写法
-
-    ![研招网考生档案相关信息](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed//20210923181220.png)
+* 10月26日、10月27日：学历证书图像采集
 
 ## 评奖评优
 
@@ -46,11 +28,57 @@
 
 [物理学院学生获专业比赛奖励情况统计表](https://docs.qq.com/sheet/DSXJPckZBS0Fxc1pz?groupUin=5nLn7o%252BhhqzDnj9eUpkTNQ%253D%253D&tab=BB08J2)
 
-* [【评奖公示】物理学院感恩中国近现代科学家奖助学金拟推荐人选公示](https://phys.swjtu.edu.cn/info/1176/8053.htm)
+* [【评奖】关于开展2020-2021学年专项奖助学金（本研）评选工作的通知](https://phys.swjtu.edu.cn/info/1176/8086.htm)
 
-* [【评优公示】物理学院2022届本科生优秀毕业生拟推荐人选名单公示](https://phys.swjtu.edu.cn/info/1176/8051.htm)
+* ~~[【评奖公示】物理学院感恩中国近现代科学家奖助学金拟推荐人选公示](https://phys.swjtu.edu.cn/info/1176/8053.htm)~~
+
+* ~~[【评优公示】物理学院2022届本科生优秀毕业生拟推荐人选名单公示](https://phys.swjtu.edu.cn/info/1176/8051.htm)~~
 
 ## 就业、毕业相关
+
+### 毕业资格相关
+
+* **[毕业学历证书图像采集](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=3F352302D493352F)**
+
+    * **若毕业生未参加图像信息采集，将导致本人、社会、单位无法查询到该生的毕业及学位信息，其证书也无法被认证!**请务必按时、以班级为单位进行拍摄
+    
+    * 拍摄时间：（地点位于X1122教室）
+
+        * 10月26日 17:00-17:20：电讯(光电)2018-01班、电讯(光电)2018-02班
+
+        * 10月27日 15:00-16:00：电讯(电磁)、应物
+
+        * 10月27日 17:00-17:20：电讯(光电)2018-03班、电讯(光电)2018-04班
+
+        * 补拍时间：10月25日-10月29日 17:40-18:00
+
+    * 拍摄要求：
+
+        * 携带本人二代身份证
+
+        * 以班级为单位，由负责人统计并收好拍摄费用（15元，2寸×8张，蓝色背景），统一缴费
+
+        * 班级同学按照学号排队拍摄
+
+        * 着深色服装（尽量着正装），不要穿蓝色、绿色及露肩的衣服；请勿化浓妆
+
+    * 确因极其特殊原因未能在此期间参加学校采集图像的学生，请自行留意新华社四川分社图像采集频道动态通知（通讯地址：成都市陕西街34号），学校不再另行组织和通知图像采集信息。
+
+    * 预计图像核对信息安排在12月，请留意教务后续通知
+
+* ~~[关于开展2021年国家体质健康测试的通知](http://sports.swjtu.edu.cn/shownews-933.html)~~
+
+* **关于2018级学生第二项运动技能认定的通知（第一批）**
+
+    * 后续仍可以认定，如果没赶上第一批，请不要着急
+    
+    ![关于2018级学生第二项运动技能认定的通知](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed//20211020104947.jpg)
+
+* [第二、第三课堂相关](./activities.md)
+
+* [西南交通大学关于学士学位外语水平要求的规定](http://jwc.swjtu.edu.cn/download/rule/20201119112410141.pdf)👈点击查看PDF文档
+
+    ![毕业英语要求](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed//20210929170520.png)
 
 ### 就业相关信息
 
@@ -82,26 +110,31 @@
 
 * [关于举办四川省紧缺选调线下培训班的通知](https://jiuye.swjtu.edu.cn/eweb/jygl/index.so?modcode=jyw_tzgg&subsyscode=jyw&type=view&newsType=tzgg&id=XEQJ3P6SH4orgA1LPoXb9q)
 
-### 毕业资格相关
+## 研招信息
 
-* **[关于开展2021年国家体质健康测试的通知](http://sports.swjtu.edu.cn/shownews-933.html)**
+[硕士专业目录(研招网)](https://yz.chsi.com.cn/zsml/zyfx_search.jsp)
 
-* [第二、第三课堂相关](./activities.md)
+### 推免
 
-* [西南交通大学关于学士学位外语水平要求的规定](http://jwc.swjtu.edu.cn/download/rule/20201119112410141.pdf)👈点击查看PDF文档
+* [教务网推免工作专题](http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=3935E695EC7FB6E0)
 
-    ![毕业英语要求](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed//20210929170520.png)
+### 统考
+
+* [全国硕士研究生招生考试网上报名平台](https://yz.chsi.com.cn/yzwb/)
+
+* [2022考研日程表](https://yz.chsi.com.cn/kyzx/jybzc/202109/20210903/2106041625.html)
+
+* 研招网考生信息里考生档案所在单位和地址的写法
+
+    ![研招网考生档案相关信息](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed//20210923181220.png)
+
+* [【考点提示】2022年全国硕士研究生招生考试西南交通大学考点考生提示（一）](http://yz.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=D06066262FE7D6CF)
 
 ## 其他
 
-* *本年度学费已经在计财处网站上更新，大家可以缴费了（本条通知不是计财处的正式通知）*
+* [关于在我校学生中实施“宪法卫士”2021年行动计划的通知](https://youth.swjtu.edu.cn/shownews-84244.shtml)
 
-* [文明宿舍初评结果](https://phys.swjtu.edu.cn/info/1176/7883.htm)
-
-* [2021SRTP第一次阶段检查]
-(http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsDetail&viewType=web&newsId=F11942080B6B1E72)
-
-* [本学期个性化及重点实验室项目中期检查](https://oalm.swjtu.edu.cn/WebSite/pages/details.html?id=7711)
+    * 各年级学生班级已经建立并导入学生信息完毕，请同学们登录[教育部全国青少年普法网](https://qspfw.moe.gov.cn/index.html)（用户名：手机号，初始密码：手机号后六位），开始学习和测验。
 
 ### 校医院相关通知
 

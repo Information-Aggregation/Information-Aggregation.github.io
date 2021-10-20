@@ -74,6 +74,8 @@
     
     ![关于2018级学生第二项运动技能认定的通知](https://cdn.jsdelivr.net/gh/xiaodl813/FigureBed//20211020104947.jpg)
 
+* 游泳考试将在近期进行，游泳馆已开放，请关注QQ群：132122820中详细信息
+
 * [第二、第三课堂相关](./activities.md)
 
 * [西南交通大学关于学士学位外语水平要求的规定](http://jwc.swjtu.edu.cn/download/rule/20201119112410141.pdf)👈点击查看PDF文档

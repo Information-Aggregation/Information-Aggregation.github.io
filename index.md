@@ -24,8 +24,6 @@
 
 [物理学院学生获专业比赛奖励情况统计表](https://docs.qq.com/sheet/DSXJPckZBS0Fxc1pz?groupUin=5nLn7o%252BhhqzDnj9eUpkTNQ%253D%253D&tab=BB08J2)
 
-* ~~[【评奖】关于开展2020-2021学年专项奖助学金（本研）评选工作的通知](https://phys.swjtu.edu.cn/info/1176/8086.htm)~~
-
 ### 本科生国家助学金
 
 [【扬华】本科生国家助学金评选](http://xg.swjtu.edu.cn/web/Home/Detail?xvw34vmu=010j_M3=jhah0gg4-5i5b-efd3-bbi5-i24b5ddjh15j.shtml)

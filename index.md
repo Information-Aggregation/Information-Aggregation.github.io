@@ -120,8 +120,6 @@
 
 * ~~[四川省面向西南交通大学 选调2022届优秀大学毕业生公告](https://jiuye.swjtu.edu.cn/eweb/jygl/zpfw.so?modcode=jygl_zpfwzpgg&subsyscode=zpfw&type=view&id=PD3r2zKfVw7TGTjwghbKf2)~~(无物理、电讯专业)
 
-* [关于举办四川省紧缺选调线下培训班的通知](https://jiuye.swjtu.edu.cn/eweb/jygl/index.so?modcode=jyw_tzgg&subsyscode=jyw&type=view&newsType=tzgg&id=XEQJ3P6SH4orgA1LPoXb9q)
-
 ## 研招信息
 
 [硕士专业目录(研招网)](https://yz.chsi.com.cn/zsml/zyfx_search.jsp)

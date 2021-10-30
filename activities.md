@@ -10,10 +10,6 @@
 
 ## 近期相关的课堂信息
 
-* 【第二课堂：心理素质与身体素质】物理学院新生杯篮球赛决赛
-
-    * 时间、地点：10月23日（本周六）下午2点，北区篮球场
-    
-    * [第二课堂选课链接](https://ocw.swjtu.edu.cn/yethan/YouthIndex?setAction=courseInfo&courseid=3E7803DA060ECE8A)
+暂无
 
 
